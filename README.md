@@ -16,6 +16,5 @@ choco install postman -y
 choco install drawio -y
 
 choco install spotify -y
-choco install everything -y
 choco install sharex -y
 ```
