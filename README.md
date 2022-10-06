@@ -6,6 +6,7 @@ choco install microsoft-windows-terminal -y
 choco install firefox -y
 choco install 7zip.install -y
 
+choco install dotnet-6.0-sdk -y
 choco install microsoft-teams -y
 choco install git.install -y
 choco install azure-cli -y
