@@ -1,7 +1,6 @@
 # install
 
 ```
-
 choco install microsoft-windows-terminal -y
 choco install firefox -y
 choco install 7zip.install -y
@@ -19,5 +18,4 @@ choco install drawio -y
 choco install spotify -y
 choco install everything -y
 choco install sharex -y
-
 ```
