@@ -1,6 +1,8 @@
 # install
 
 ```
+choco install choco-upgrade-all-at-startup
+
 choco install bitwarden -y
 choco install microsoft-windows-terminal -y
 choco install firefox -y
