@@ -10,6 +10,7 @@ choco install microsoft-teams -y
 choco install git.install -y
 choco install azure-cli -y
 choco install awscli -y
+choco install terraform -y
 choco install vscode -y
 choco install jetbrains-rider -y
 choco install docker-desktop -y
