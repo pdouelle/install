@@ -2,7 +2,6 @@
 
 ```
 
-choco install bitwarden -y
 choco install microsoft-windows-terminal -y
 choco install firefox -y
 choco install 7zip.install -y
