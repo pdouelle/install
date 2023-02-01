@@ -10,7 +10,7 @@ choco install revo-uninstaller -y
 choco install spotify -y
 choco install flameshot -y
 
-choco install visualstudio-installer
+choco install visualstudio-installer -y
 choco install microsoft-teams -y
 choco install git.install -y
 choco install azure-cli -y
